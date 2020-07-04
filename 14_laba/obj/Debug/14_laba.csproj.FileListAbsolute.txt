@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\14_laba\bin\Debug\14_laba.exe.config
+C:\Users\Костя\source\repos\14_laba\bin\Debug\14_laba.exe
+C:\Users\Костя\source\repos\14_laba\bin\Debug\14_laba.pdb
+C:\Users\Костя\source\repos\14_laba\obj\Debug\14_laba.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\14_laba\obj\Debug\14_laba.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\14_laba\obj\Debug\14_laba.exe
+C:\Users\Костя\source\repos\14_laba\obj\Debug\14_laba.pdb

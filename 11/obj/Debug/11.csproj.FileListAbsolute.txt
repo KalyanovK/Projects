@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\11\bin\Debug\11.exe.config
+C:\Users\Костя\source\repos\11\bin\Debug\11.exe
+C:\Users\Костя\source\repos\11\bin\Debug\11.pdb
+C:\Users\Костя\source\repos\11\obj\Debug\11.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\11\obj\Debug\11.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\11\obj\Debug\11.exe
+C:\Users\Костя\source\repos\11\obj\Debug\11.pdb

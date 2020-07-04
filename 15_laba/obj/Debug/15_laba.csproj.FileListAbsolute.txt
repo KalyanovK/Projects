@@ -1,0 +1,13 @@
+C:\Users\Костя\source\repos\15_laba\bin\Debug\15_laba.exe.config
+C:\Users\Костя\source\repos\15_laba\bin\Debug\15_laba.exe
+C:\Users\Костя\source\repos\15_laba\bin\Debug\15_laba.pdb
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\15_laba\obj\Debug\_15_laba.Properties.Resources.resources
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.exe
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.pdb
+C:\Users\Костя\source\repos\15_laba\obj\Debug\_15_laba.Лабораторная.resources
+C:\Users\Костя\source\repos\15_laba\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Костя\source\repos\15_laba\obj\Debug\Interop.WMPLib.dll
+C:\Users\Костя\source\repos\15_laba\obj\Debug\15_laba.csproj.ResolveComReference.cache
