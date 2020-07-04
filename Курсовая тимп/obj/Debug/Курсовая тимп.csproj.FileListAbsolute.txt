@@ -1,0 +1,10 @@
+C:\Users\Костя\source\repos\Курсовая тимп\bin\Debug\Курсовая тимп.exe.config
+C:\Users\Костя\source\repos\Курсовая тимп\bin\Debug\Курсовая тимп.exe
+C:\Users\Костя\source\repos\Курсовая тимп\bin\Debug\Курсовая тимп.pdb
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая тимп.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая_тимп.Form1.resources
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая_тимп.Properties.Resources.resources
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая тимп.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая тимп.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая тимп.exe
+C:\Users\Костя\source\repos\Курсовая тимп\obj\Debug\Курсовая тимп.pdb
