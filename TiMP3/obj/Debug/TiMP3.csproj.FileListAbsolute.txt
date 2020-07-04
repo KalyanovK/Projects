@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\TiMP3\bin\Debug\TiMP3.exe.config
+C:\Users\Костя\source\repos\TiMP3\bin\Debug\TiMP3.exe
+C:\Users\Костя\source\repos\TiMP3\bin\Debug\TiMP3.pdb
+C:\Users\Костя\source\repos\TiMP3\obj\Debug\TiMP3.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\TiMP3\obj\Debug\TiMP3.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\TiMP3\obj\Debug\TiMP3.exe
+C:\Users\Костя\source\repos\TiMP3\obj\Debug\TiMP3.pdb
