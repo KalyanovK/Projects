@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\TIMP5\bin\Debug\TIMP5.exe.config
+C:\Users\Костя\source\repos\TIMP5\bin\Debug\TIMP5.exe
+C:\Users\Костя\source\repos\TIMP5\bin\Debug\TIMP5.pdb
+C:\Users\Костя\source\repos\TIMP5\obj\Debug\TIMP5.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\TIMP5\obj\Debug\TIMP5.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\TIMP5\obj\Debug\TIMP5.exe
+C:\Users\Костя\source\repos\TIMP5\obj\Debug\TIMP5.pdb

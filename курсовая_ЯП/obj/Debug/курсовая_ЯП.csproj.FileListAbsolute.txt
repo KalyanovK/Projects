@@ -1,0 +1,10 @@
+C:\Users\Костя\source\repos\курсовая_ЯП\bin\Debug\курсовая_ЯП.exe.config
+C:\Users\Костя\source\repos\курсовая_ЯП\bin\Debug\курсовая_ЯП.exe
+C:\Users\Костя\source\repos\курсовая_ЯП\bin\Debug\курсовая_ЯП.pdb
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.Form1.resources
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.Properties.Resources.resources
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.csproj.GenerateResource.cache
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.exe
+C:\Users\Костя\source\repos\курсовая_ЯП\obj\Debug\курсовая_ЯП.pdb

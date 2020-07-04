@@ -1,0 +1,7 @@
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\bin\Debug\Курсовая_ЯП(консоль).exe.config
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\bin\Debug\Курсовая_ЯП(консоль).exe
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\bin\Debug\Курсовая_ЯП(консоль).pdb
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\obj\Debug\Курсовая_ЯП(консоль).csprojAssemblyReference.cache
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\obj\Debug\Курсовая_ЯП(консоль).csproj.CoreCompileInputs.cache
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\obj\Debug\Курсовая_ЯП(консоль).exe
+C:\Users\Костя\source\repos\Курсовая_ЯП(консоль)\obj\Debug\Курсовая_ЯП(консоль).pdb
